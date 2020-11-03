@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Gradle Uberjar
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: Parser2.main
+
