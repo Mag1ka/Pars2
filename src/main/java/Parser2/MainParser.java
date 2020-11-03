@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-public class main {
+public class MainParser {
 
     public static void main(String[] args) throws IOException {
         //Создаём нужные нам колекции
